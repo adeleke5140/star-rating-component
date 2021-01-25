@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+body{
+  display:grid;
+  place-items: center;
+  height: 100vh;
+  text-align: center;
+  font-size:2rem;
+}
